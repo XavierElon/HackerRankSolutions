@@ -6,18 +6,22 @@
     <br>317 efficient solutions to HackerRank problems
 </p>
 
+<!--
 * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Code](#30-days-of-code)
 * [Algorithms](#algorithms)
 * [Cracking the Coding Interview](#cracking-the-coding-interview)
+-->
 * [Data Structures](#data-structures)
+<!--
 * [General Programming](#general-programming)
 * [Implementation](#implementation)
 * [Java](#java)
 * [SQL](#sql)
-
+-->
 Solutions are coded using Java 8
 
+<!--
 SQL solutions are coded using MySQL
 
 
@@ -158,7 +162,7 @@ SQL solutions are coded using MySQL
 |       Algorithms      | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)           |   45   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/Binary%20Search%20-%20Ice%20Cream%20Parlor/Solution.java)                |
 |       Algorithms      | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid)     |   45   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/DFS%20-%20Connected%20Cell%20in%20a%20Grid/Solution.java)                |
 |       Algorithms      | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach)          |   45   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/BFS%20-%20Shortest%20Reach%20in%20a%20Graph/Solution.java)               |
-
+-->
 
 # Data Structures
 
@@ -201,11 +205,22 @@ SQL solutions are coded using MySQL
 |      Tries      | [Contacts](https://www.hackerrank.com/challenges/contacts)                                                                                             |   40   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Trie/Contacts/Solution.java)                                                                            |
 |      Queues     | [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)                                                                 |   30   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Queues/Queue%20using%20Two%20Stacks/Solution.java)                                                      |
 |      Heaps      | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median)                                                               |   50   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Heaps/Find%20the%20Running%20Median/Solution.java)                                                      |
-| Multiple Choice | [Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees)                                                              |    5   | [Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%201/Solution.txt)                                                  |
-| Multiple Choice | [Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures)                                                    |    5   | [Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%202/Solution.txt)                                                  |
-| Multiple Choice | [Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1)                                                  |    5   | [Solution](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%203/Solution.txt)                                                  |
+| Data Structures | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)                                                                      |    5   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%201D%20Array/Solution.java)                                                |
+| Data Structures | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)                                                                                   |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%202D%20Array/Solution.java)                                                |
+| Data Structures | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)                                                                          |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Subarray/Solution.java)                                                  |
+| Data Structures | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)                                                                                 |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20ArrayList/Solution.java)                                                 |
+| Data Structures | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array)                                                                          |   25   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%201D%20Array%20(Part%202)/Solution.java)                                   |
+| Data Structures | [Java List](https://www.hackerrank.com/challenges/java-list)                                                                                           |   15   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20List/Solution.java)                                                      |
+| Data Structures | [Java Map](https://www.hackerrank.com/challenges/phone-book)                                                                                           |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Map/Solution.java)                                                       |
+| Data Structures | [Java Stack](https://www.hackerrank.com/challenges/java-stack)                                                                                         |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Stack/Solution.java)                                                     |
+| Data Structures | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                                                                                     |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Hashset/Solution.java)                                                   |
+| Data Structures | [Java Generics](https://www.hackerrank.com/challenges/java-generics)                                                                                   |   15   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Generics/Solution.java)                                                  |
+| Data Structures | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)                                                                               |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Comparator/Solution.java)                                                |
+| Data Structures | [Java Sort](https://www.hackerrank.com/challenges/java-sort)                                                                                           |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Sort/Solution.java)                                                      |
+| Data Structures | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue)                                                                                     |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Dequeue/Solution.java)                                                   |
+| Data Structures | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset)                                                                                       |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20BitSet/Solution.java)                                                    |
 
-
+<!--
 # General Programming
 
 |          Subdomain          |                                                           Challenge                                                          | Points |                                                                                        Solution                                                                                       |
@@ -307,20 +322,6 @@ SQL solutions are coded using MySQL
 |          BigNumber          | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)                                                 |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/BigNumber/Java%20BigInteger/Solution.java)                                                        |
 |          BigNumber          | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)                                                 |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/BigNumber/Java%20BigDecimal/Solution.java)                                                        |
 |          BigNumber          | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)                                         |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/BigNumber/Java%20Primality%20Test/Solution.java)                                                  |
-|       Data Structures       | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)                                        |    5   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%201D%20Array/Solution.java)                                                |
-|       Data Structures       | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)                                                     |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%202D%20Array/Solution.java)                                                |
-|       Data Structures       | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)                                            |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Subarray/Solution.java)                                                  |
-|       Data Structures       | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)                                                   |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20ArrayList/Solution.java)                                                 |
-|       Data Structures       | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array)                                            |   25   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%201D%20Array%20(Part%202)/Solution.java)                                   |
-|       Data Structures       | [Java List](https://www.hackerrank.com/challenges/java-list)                                                             |   15   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20List/Solution.java)                                                      |
-|       Data Structures       | [Java Map](https://www.hackerrank.com/challenges/phone-book)                                                             |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Map/Solution.java)                                                       |
-|       Data Structures       | [Java Stack](https://www.hackerrank.com/challenges/java-stack)                                                           |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Stack/Solution.java)                                                     |
-|       Data Structures       | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                                                       |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Hashset/Solution.java)                                                   |
-|       Data Structures       | [Java Generics](https://www.hackerrank.com/challenges/java-generics)                                                     |   15   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Generics/Solution.java)                                                  |
-|       Data Structures       | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)                                                 |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Comparator/Solution.java)                                                |
-|       Data Structures       | [Java Sort](https://www.hackerrank.com/challenges/java-sort)                                                             |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Sort/Solution.java)                                                      |
-|       Data Structures       | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue)                                                       |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Dequeue/Solution.java)                                                   |
-|       Data Structures       | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset)                                                         |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20BitSet/Solution.java)                                                    |
 | Object Oriented Programming | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1)                                           |    5   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Object%20Oriented%20Programming/Java%20Inheritance%20I/Solution.java)                             |
 | Object Oriented Programming | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2)                                          |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Object%20Oriented%20Programming/Java%20Inheritance%20II/Solution.java)                            |
 | Object Oriented Programming | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)                                         |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Object%20Oriented%20Programming/Java%20Abstract%20Class/Solution.java)                            |
@@ -344,7 +345,7 @@ SQL solutions are coded using MySQL
 |           Advanced          | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)                                 |   30   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Advanced/Java%20Lambda%20Expressions/Solution.java)                                               |
 |           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Advanced/Java%20MD5/Solution.java)                                                                |
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)                                                            |
-
+-->
 
 <!--# SQL
 
