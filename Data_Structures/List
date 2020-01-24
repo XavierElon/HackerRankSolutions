@@ -1,0 +1,44 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner scanner = new Scanner(System.in);
+        LinkedList<Integer> list = new LinkedList<Integer>();
+        int n = scanner.nextInt();
+
+        for (int i = 0; i < n; i++) {
+            int value = scanner.nextInt();
+            list.add(value);
+        }
+
+        int q = scanner.nextInt();
+        for (int i = 0; i < q; i++) {
+            scanner.nextLine();
+            String action = scanner.nextLine();
+
+            if (action.equals("Insert")) {
+                int x = scanner.nextInt();
+                int y = scanner.nextInt();
+                list.add(x, y);
+            } else {
+                int index = scanner.nextInt();
+                list.remove(index);
+            }
+
+        }
+        scanner.close();
+
+        Iterator itr = list.iterator();
+        while (itr.hasNext()) {
+            System.out.print(itr.next() + " ");
+        }
+    
+    }
+}
+
