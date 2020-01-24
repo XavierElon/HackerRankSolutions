@@ -1,9 +1,9 @@
 # HackerRankSolutions
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/XavierElon1">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>317 efficient solutions to HackerRank problems
+    <br>Efficient solutions to HackerRank problems
 </p>
 
 <!--
@@ -218,7 +218,7 @@ SQL solutions are coded using MySQL
 | Data Structures | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)                                                                               |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Comparator/Solution.java)                                                |
 | Data Structures | [Java Sort](https://www.hackerrank.com/challenges/java-sort)                                                                                           |   10   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Sort/Solution.java)                                                      |
 | Data Structures | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue)                                                                                     |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20Dequeue/Solution.java)                                                   |
-| Data Structures | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset)                                                                                       |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Java/Data%20Structures/Java%20BitSet/Solution.java)                                                    |
+| Data Structures | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset)                                                                                       |   20   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/J                                                   |
 
 <!--
 # General Programming
