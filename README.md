@@ -166,7 +166,7 @@ SQL solutions are coded using MySQL
 
 # Data Structures
 
-|    Subdomain    |                                                                        Challenge                                                                       | Points |                                                                                                  Solution                     |   Youtube Video Explanation
+|    Subdomain    |                                                                        Challenge                                                                       | Points |                                                  Solution                     |   Youtube Explanation
 |:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |      Arrays     | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                                                         |   10   |                                                                    |
 |      Arrays     | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)                                                                                        |   15   |                                                               |
